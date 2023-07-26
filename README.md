@@ -1,1 +1,1 @@
-# Appium_Login_Setup
+This code will help you to start the appium login, your want to be mention the APK file path and Mani.js file path. After changes you can start the programe. If any doubts please contact me via GITHUB.
